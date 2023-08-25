@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "flipper_main-altium-import")(type "KiCad")(uri "${KIPRJMOD}/flipper_main-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "CustomSymbols")(type "KiCad")(uri "${KIPRJMOD}/CustomSymbols.kicad_sym")(options "")(descr ""))
+)
